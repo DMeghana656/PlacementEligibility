@@ -1,0 +1,26 @@
+
+RollNumber,StudentName,CGPA,Attendance,SkillScore,Eligible
+STU001,Aarav Sharma,9.1,95,92,Yes
+STU002,Priya Reddy,8.8,92,88,Yes
+STU003,Rohan Kumar,8.5,90,85,Yes
+STU004,Ananya Patel,8.2,88,82,Yes
+STU005,Vikram Singh,8.0,85,78,Yes
+STU006,Meera Nair,7.9,84,75,Yes
+STU007,Arjun Rao,7.7,82,80,Yes
+STU008,Sneha Verma,7.5,80,73,Yes
+STU009,Karthik Reddy,7.3,78,72,Yes
+STU010,Divya Sharma,7.1,76,74,Yes
+STU011,Rahul Das,8.0,68,80,No
+STU012,Pooja Kumari,7.8,72,62,No
+STU013,Aditya Joshi,7.4,75,55,No
+STU014,Kavya Rao,7.2,65,68,No
+STU015,Manish Gupta,6.9,82,58,No
+STU016,Ishita Reddy,6.7,70,65,No
+STU017,Sai Krishna,6.5,68,52,No
+STU018,Neha Patel,6.3,60,57,No
+STU019,Varun Kumar,6.0,55,48,No
+STU020,Anjali Das,5.8,58,45,No
+STU021,Abhishek Rao,8.4,90,55,No
+STU022,Harini Devi,7.6,65,85,No
+STU023,Nikhil Sharma,6.8,85,72,No
+STU024,Swathi Kumar,7.0,78,66,No
